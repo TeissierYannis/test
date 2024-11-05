@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shelterwall-rust.iml" filepath="$PROJECT_DIR$/shelterwall-rust.iml" />
+    </modules>
+  </component>
+</project>
